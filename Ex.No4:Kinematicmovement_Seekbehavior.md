@@ -53,9 +53,11 @@ public class Script : MonoBehaviour
 ```
 ### Output:
 ### Initial position of the cube
-![Screenshot 2025-03-05 161643](https://github.com/user-attachments/assets/3cfb84c0-0bca-4db3-be4e-8627c30bed55)
+![image](https://github.com/user-attachments/assets/edd2d136-db5f-4b33-a51f-0a5403abee9c)
+
 ### After movement
-![Screenshot 2025-03-05 161712](https://github.com/user-attachments/assets/eb5e27c0-689a-43c3-af52-3345aface2da)
+![image](https://github.com/user-attachments/assets/2f9f89b6-07b9-4b24-810f-6eece59aca4d)
+
 
 
 
