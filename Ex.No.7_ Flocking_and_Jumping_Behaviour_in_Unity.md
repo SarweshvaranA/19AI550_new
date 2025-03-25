@@ -1,6 +1,6 @@
-# Experiment 7: Implementing Jumping Behavior in Unity 
-### DATE:   25-03-2025
-### REGISTER NUMBER : 212223040215
+# EXno 7: Implementing Jumping Behavior in Unity 
+### DATE:   25/03/2025
+### REGISTER NUMBER : 212223230198
 ### AIM: 
 To implement a jumping behavior for a player-controlled character in Unity using Rigidbody physics and user input, where pressing the spacebar while in the air causes the player to move down. 
 ### Algorithm:
