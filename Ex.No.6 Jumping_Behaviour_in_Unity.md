@@ -1,4 +1,4 @@
-# EXno 7: Implementing Jumping Behavior in Unity 
+# EXno 6: Implementing Jumping Behavior in Unity 
 ### DATE:   25/03/2025
 ### REGISTER NUMBER : 212223230198
 ### AIM: 
