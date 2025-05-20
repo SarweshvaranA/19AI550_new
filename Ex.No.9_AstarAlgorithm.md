@@ -139,8 +139,6 @@ Check the following
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/544292e5-15a7-4905-ae7e-842f35afaf29)
-
 
 ### Initial position:
 
