@@ -138,6 +138,10 @@ Check the following
 ```
 
 ### Output:
+
+![image](https://github.com/user-attachments/assets/544292e5-15a7-4905-ae7e-842f35afaf29)
+
+
 ### Initial position:
 
 ![image](https://github.com/user-attachments/assets/4dd19eb2-f294-4a79-af6d-5ba14c05b1ec)
